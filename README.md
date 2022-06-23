@@ -27,3 +27,24 @@ Github   | 存放原始碼
 
 感謝使用
 ![](https://github.com/Cgost/filter/blob/main/demo/result_page4.PNG)
+
+## 引用模組
+```python
+# bedore start, are you on google drive(default not)?
+google_drive = 0
+#---------------------------------------#
+#             imoprt model              #
+#---------------------------------------#
+import numpy as np
+import cv2
+import math
+from numpy.random import uniform, normal, exponential, rayleigh
+from matplotlib import pyplot as   plt
+
+if google_drive:
+  from IPython.core.pylabtools import print_figure
+  from google.colab import drive
+  from google.colab.patches import cv2_imshow
+else:
+  import os
+```
