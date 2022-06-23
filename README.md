@@ -13,19 +13,19 @@ Python3 | 控制一切
 Github   | 存放原始碼
 
 ## 成品展示
-初始畫面
+#### 初始畫面
 ![](https://github.com/Cgost/filter/blob/main/demo/result_page1.PNG)
 
-列出當前目錄下所有的 jpg 檔，要求使用者選擇其中一張圖片
+#### 列出當前目錄下所有的 jpg 檔，要求使用者選擇其中一張圖片
 ![](https://github.com/Cgost/filter/blob/main/demo/result_page2.PNG)
 
-調整參數
+#### 調整參數
 ![](https://github.com/Cgost/filter/blob/main/demo/result_page3-2.PNG)
 
-輸出結果
+#### 輸出結果
 ![](https://github.com/Cgost/filter/blob/main/demo/result_page3-1.PNG)
 
-感謝使用
+#### 感謝使用
 ![](https://github.com/Cgost/filter/blob/main/demo/result_page4.PNG)
 
 ## 引用模組
